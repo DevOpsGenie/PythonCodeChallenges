@@ -4,7 +4,7 @@ Print `Hello World` on commandline if no argument is passed but if argument is p
 Pycharm root# python challenge01.py
 hello World
 
-Pycharm root# python challenge01.py abc
-hello abc
+Pycharm root# python challenge01.py Devops
+hello Devops
 
 ```
