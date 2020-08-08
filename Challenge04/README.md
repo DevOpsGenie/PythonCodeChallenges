@@ -1,6 +1,6 @@
 1. Split this string - "This is python"
 
-2. Join this list - ["This","is","python"]
+2. Join this list - ["This,is,python"]
 
 3. Split below string then join with "-"
 
