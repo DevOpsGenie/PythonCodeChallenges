@@ -26,4 +26,6 @@ FaceBook group -> https://www.facebook.com/groups/629560027686768/
 
 Telegram -> https://t.me/DevOpsGenie
 
+Twitter -> https://twitter.com/DevopsGenie
+
 Linkedin -> https://www.linkedin.com/in/vikky-omkar-6552178b/
