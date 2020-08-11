@@ -8,7 +8,7 @@ Pycharm root# python challenge01.py Devops
 hello Devops
 
 ```
-Watch solutions on Youtube -> https://youtu.be/6rBcxc4Plt4
+Check 2 solutions of this challenge -> https://youtu.be/6rBcxc4Plt4
 
 
 Feel free to share your solution by raising a PR to this challenge. First 5 contributors will be tagged in the readme of the challenge
