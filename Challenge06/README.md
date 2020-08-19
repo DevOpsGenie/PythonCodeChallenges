@@ -1,5 +1,5 @@
-Reverse a string in python
+Find intersection without using python's inbuilt function
 
-Input : hello
+Input : ["1-3-5-7","2-3-6-7"]
 
-Output : olleh
+Output : 3-7
